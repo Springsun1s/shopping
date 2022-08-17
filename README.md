@@ -58,3 +58,4 @@ Application code currently has following rules:
   - Customer earns 1 point on every \$10 spent on a product with 10% discount.
   - Customer earns 1 point on every \$15 spent on a product with 15% discount.
 This is my shopping_card project
+This is an edition
